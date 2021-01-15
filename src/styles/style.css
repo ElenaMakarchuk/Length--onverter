@@ -1,0 +1,17 @@
+.application {
+  background-color: bisque;
+}
+
+div.converter-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+div.left-container {
+  margin: 20px;
+}
+
+div.right-container {
+  margin: 20px;
+}

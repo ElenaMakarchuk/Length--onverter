@@ -1,5 +1,5 @@
 .application {
-  background-color: bisque;
+  background-color: rgb(224, 188, 188);
 }
 
 div.converter-container {
@@ -14,4 +14,15 @@ div.left-container {
 
 div.right-container {
   margin: 20px;
+}
+
+.converter-title {
+  text-align: center;
+  font-style: italic;
+  color: rgb(139, 8, 8);
+}
+
+.equally {
+  font-style: normal;
+  font-size: 180%;
 }
